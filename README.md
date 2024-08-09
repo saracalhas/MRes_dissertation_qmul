@@ -1,1 +1,1 @@
-# MRes_dissertation_qmul
+# Code used in the dissertation
