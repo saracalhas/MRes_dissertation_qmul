@@ -5,10 +5,21 @@ Dementia is a serious global health challenge. This research aims to identify co
 All the code used for this MRes project is available in this repo. Below more information on it.
 
 ### Code in this repo
-- **Data pre-processing**  
-    - Here you can find the scripts for merging the datasets and for the exclusions applied to the data
+- **Data pre-processing folder**  
+    - Here you can find the scripts for merging the proteomics and metabolomics datasets and for the data pre-processing done to the data as per 5.2. section in dissertation. Name of file: [include name of file]
+    - Script for the two linear regressions done to account for the effect of age in GFAP and NEFL. Name of file: [include name of file]
+    - Script for the outliers and missing data assumption checks. Name of file: [include name of file]
 
-- **Descriptive statistics**  
-    Here you can find bla
-  
-- **
+- **Descriptive statistics**
+    - Script for statistical analysis done (section 5.4). Name of file: [include name of file]
+ 
+- **Machine learning as a classification**
+    - First experiment set (section 5.4.1.3.1): Name of files: [include name of file]
+    - Second experiment set (section 5.4.1.3.2): Name of files: [include name of file]
+    - Third experiment set (section 5.4.1.3.3): Name of files: [include name of file]
+    - Fourth experiment set (section 5.4.1.3.4): Name of files: [include name of file]
+ 
+- **Survival machine learning**
+    -  Code as per described in section 5.4.2. Name of files: [include name of file]
+ 
+      
