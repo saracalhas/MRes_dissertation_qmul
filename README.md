@@ -2,7 +2,7 @@
 ### Background
 This repo is the companion of the MRes dissertation with the title: Individualised risk prediction for dementia, deriving actionable information from multimodal data. This research aims to identify cost-effective, non-invasive dementia risk signatures, such as blood-based biomarkers for dementia risk prediction. To the best of the author’s knowledge, this is the first study combining advances in machine learning and integrating proteomics, metabolomics, genetic markers, and baseline clinical variables for individualised dementia risk prediction in the preclinical stage. Results from this work will determine whether blood-based biomarkers and machine learning can predict future dementia risk at an individual level. 
 
-All the code used for this MRes project is available in this repo. Below more information on it.
+All the code used for this MRes project is available in this repo. Below more information on how it is organised.
 
 ### Code in this repo
 - **Data pre-processing folder**  
