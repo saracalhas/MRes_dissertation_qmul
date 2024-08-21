@@ -4,5 +4,6 @@ Dementia is a serious global health challenge. Modifiable risk factors and emerg
 
 ### Code in this repo
 - **Descriptive statistics**
-  Here you can find bla 
+  Here you can find bla
+  
 - **
