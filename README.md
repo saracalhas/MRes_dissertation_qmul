@@ -19,7 +19,7 @@ All the code used for this MRes project is available in this repo. Below more in
 - **Descriptive statistics**
     - Script for summary and descriptive statistics done (section 5.4). This is included in notebook: Data_pre_process_and_statsanalysis.ipynb (in **Data_pre_process_and_descriptive_stats folder**)
  
-- **Machine learning as a classification**
+- **Machine learning as a classification task**
     - First experiment set (section 5.4.1.3.1): Name of folder: 1st_set_experiments  
       * Three sub-folders with the python scripts of the classifiers explored: SVMs, Random Forest and XGBoost
     - Second experiment set (section 5.4.1.3.2): Name of folder: 2nd_set_experiments  
