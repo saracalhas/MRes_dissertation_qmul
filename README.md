@@ -5,14 +5,21 @@ This repo is the companion of the MRes dissertation with the title: **Individual
 All the code used for this MRes project is available in this repo. Below more information on how it is organised.
 
 ### Code in this repo
-- **Data pre-processing folder**
-    - Name of folder: Data_preprocessing  
-      * Here you can find the scripts for merging the proteomics and metabolomics datasets and for the data pre-processing done to the data as per 5.2. section in dissertation. Name of file: [include name of file]
-    - Script for the two linear regressions done to account for the effect of age in GFAP and NEFL. Name of file: [include name of file]
-    - Script for the outliers and missing data assumption checks. Name of file: [include name of file]
+- **Data pre-processing and descriptive statistics folder** This reflects work done in sections 5.1 and part of 5.2. 
+    - Name of folder: Data_pre_process_and_statsanalysis
+      * File name: Data_pre_process_and_statsanalysis.ipynb, also available as a .py script.  This python script performs:
+      - Merge of the proteomics and metabolomics datasets
+      - Data cleaning
+      - Missing data checks and removal of data based on criteria
+      - Check for outliers
+      - MCAR/MAR assumptions test
+      - Summary statistics (section 5.4)
+      - Imputation of missing data with KNN
+      * GFAP_NEFL_normalised: Script for the two linear regressions done to account for the effect of age in GFAP and NEFL is included in the machine learning as classification folder
+      
 
 - **Descriptive statistics**
-    - Script for statistical analysis done (section 5.4). Name of file: [include name of file]
+    - Script for statistical analysis done (section 5.4). This is included in 
  
 - **Machine learning as a classification**
     - First experiment set (section 5.4.1.3.1): Name of files: [include name of file]
