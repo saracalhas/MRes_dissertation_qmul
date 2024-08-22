@@ -20,7 +20,7 @@ All the code used for this MRes project is available in this repo. Below more in
       
 
 - **Descriptive statistics**
-    - Script for statistical analysis done (section 5.4). This is included in 
+    - Script for statistical analysis done (section 5.4). This is included in notebook: Data_pre_process_and_statsanalysis.ipynb (in Data_pre_process_and_statsanalysis folder)
  
 - **Machine learning as a classification**
     - First experiment set (section 5.4.1.3.1): Name of files: [include name of file]
