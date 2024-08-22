@@ -5,8 +5,9 @@ This repo is the companion of the MRes dissertation with the title: **Individual
 All the code used for this MRes project is available in this repo. Below more information on how it is organised.
 
 ### Code in this repo
-- **Data pre-processing folder**  
-    - Here you can find the scripts for merging the proteomics and metabolomics datasets and for the data pre-processing done to the data as per 5.2. section in dissertation. Name of file: [include name of file]
+- **Data pre-processing folder**
+    - Name of folder: Data_preprocessing  
+      * Here you can find the scripts for merging the proteomics and metabolomics datasets and for the data pre-processing done to the data as per 5.2. section in dissertation. Name of file: [include name of file]
     - Script for the two linear regressions done to account for the effect of age in GFAP and NEFL. Name of file: [include name of file]
     - Script for the outliers and missing data assumption checks. Name of file: [include name of file]
 
