@@ -21,5 +21,11 @@ All the code used for this MRes project is available in this repo. Below more in
  
 - **Survival machine learning**
     -  Code as per described in section 5.4.2. Name of files: [include name of file]
+      
+ - **Summary of results**
+    - Code for the summary of the results for the first and second round of experiments (section 6.2.1 and 6.2.2).
+   Name of file: [include name of file]
+      
+      
  
       
