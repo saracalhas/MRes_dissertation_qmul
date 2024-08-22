@@ -15,8 +15,6 @@ All the code used for this MRes project is available in this repo. Below more in
       - MCAR/MAR assumptions test
       - Summary statistics (section 5.4 of dissertation)
       - Imputation of missing data with KNN
-      * GFAP_NEFL_normalised: Script for the two linear regressions done to account for the effect of age in GFAP and NEFL is included in the machine learning as classification folder
-      
 
 - **Descriptive statistics**
     - Script for summary and descriptive statistics done (section 5.4). This is included in notebook: Data_pre_process_and_statsanalysis.ipynb (in **Data_pre_process_and_descriptive_stats folder**)
