@@ -5,9 +5,9 @@ This repo is the companion of the MRes dissertation with the title: **Individual
 All the code used for this MRes project is available in this repo. Below more information on how it is organised.
 
 ### Code in this repo
-- **Data pre-processing and descriptive statistics folder** This reflects work done in sections 5.1 and part of 5.2.
+- **Data pre-processing and descriptive statistics folder** (Name of folder: Data_pre_process_and_descriptive_stats). This reflects work done in sections 5.1 and part of 5.2.
   
-    - Name of folder: Data_pre_process_and_descriptive_stats. File name: Data_pre_process_and_statsanalysis.ipynb, also available as a .py script.  This python script performs:  
+    - File name: Data_pre_process_and_statsanalysis.ipynb, also available as a .py script.  This python script performs:  
       - Merge of the proteomics and metabolomics datasets
       - Data cleaning
       - Missing data checks and removal of data based on criteria
